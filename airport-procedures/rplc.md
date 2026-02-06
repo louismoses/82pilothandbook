@@ -1,6 +1,6 @@
 # RPLC/CLARK Procedure
 
-### 1. Flight Plan
+### 1. Flight Plan (FP)
 
 1. File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_
 
@@ -8,6 +8,20 @@
 3. Scan your signed FP. File name should be: **FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])**
 
     - _sample: **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
+
+4. Email the scan copy of the FP
+   _email format_
+
+    **To:**
+
+    `caapclark.fobs@gmail.com`
+
+    **CC:**
+
+    `airsideflightdata@lipadcorp.com, your_captains_email, on-duty_FOO's_email
+`
+
+ <!--  -->
 
 -   **Tower:** 118.7
     -   "Clark Tower, good morning/afternoon. Cadet **\_**, would like to confirm flight plan for (IDENT) at (TIME IN ZULU)."
