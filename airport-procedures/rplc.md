@@ -2,39 +2,32 @@
 
 ### 1. Flight Plan (FP)
 
-1.  File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_
+1.  File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_.
 
-2.  Do your FP and the get it signed by the Police
-3.  Scan your signed FP. File name should be: **FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])**
+2.  Do your FP and the get it signed by the Police.
+3.  Scan your signed FP. File name should be: **FLIGHT PLAN ([Ident] [Time in Zulu] [Year] [Month] [Date])**.
 
     -   _sample: **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
 
-4.  Email the scan copy of the FP
+4.  Email the scanned copy of the FP
 
-> **NOTE: EMAIL FORMAT**
+    > **NOTE: EMAIL FORMAT**
 
--   **To:**
+    -   **To:** caapclark.fobs@gmail.com
 
-    -   caapclark.fobs@gmail.com
+    -   **CC:** airsideflightdata@lipadcorp.com , your_captains_email, on-duty_FOO's_email
 
--   **CC:**
+    -   **Subject:** FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
 
-    -   airsideflightdata@lipadcorp.com
-    -   your_captains_email
-    -   on-duty_FOO's_email
+    -   **Message:**
 
--   **Subject:**
+        ```
+        This is Cadet [Your Name] from A and M Hangar. Attached file is the Flight Plan for RP-C3519 0000Z 2026 February 06
 
-    -   FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
+        Thank you!
+        ```
 
--   **Message:**
-
-    -   This is Cadet [Your Name] from A and M Hangar.
-    -   Attached file is the Flight Plan for RP-C3519 0000Z 2026 February 06
-
-    Thank you!
-
-5. Confirm FP is Received
+5.  Confirm FP is Received
 
 ---
 
