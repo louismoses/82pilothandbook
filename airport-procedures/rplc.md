@@ -29,7 +29,7 @@
 
           Thank you!
 
- <!--  -->
+---
 
 -   **Tower:** 118.7
     -   "Clark Tower, good morning/afternoon. Cadet **\_**, would like to confirm flight plan for (IDENT) at (TIME IN ZULU)."
