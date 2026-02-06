@@ -5,8 +5,8 @@
 -   File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_
 
 -   Do your FP and the get it signed by the Police
--   Scan your signed FP. File name should be \*\*FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])
--   \*sample: FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf
+-   Scan your signed FP. File name should be **FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])**
+-   _sample: FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf_
 
 -   **Tower:** 118.7
     -   "Clark Tower, good morning/afternoon. Cadet **\_**, would like to confirm flight plan for (IDENT) at (TIME IN ZULU)."
