@@ -2,10 +2,10 @@
 
 ### 1. Flight Plan
 
--   i. File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_
+-   1. File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_
 
--   ii. Do your FP and the get it signed by the Police
--   iii. Scan your signed FP. File name should be: **FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])**
+-   2. Do your FP and the get it signed by the Police
+-   3. Scan your signed FP. File name should be: **FLIGHT PLAN ([IDENT] [TIME IN ZULU] [YEAR][MONTH][DATE])**
 
     -   _sample: **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
 
