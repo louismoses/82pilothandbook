@@ -29,6 +29,8 @@
 
           Thank you!
 
+5.  Confirm FP is Received
+
 ---
 
 -   **Tower:** 118.7
