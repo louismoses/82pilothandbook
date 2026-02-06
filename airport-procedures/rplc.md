@@ -21,8 +21,6 @@
           - your_captains_email
           - on-duty_FOO's_email
 
-    `
-
  <!--  -->
 
 -   **Tower:** 118.7
