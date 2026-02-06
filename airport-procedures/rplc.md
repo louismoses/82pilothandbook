@@ -10,15 +10,16 @@
     -   _sample: **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
 
 4.  Email the scan copy of the FP
-    _email format_
 
-        - **To:**
+    > NOTE: follow email format
+
+        - To:
           -   caapclark.fobs@gmail.com
 
-        - **CC:**
+        - CC:
           - airsideflightdata@lipadcorp.com,
           - your_captains_email
-          -  on-duty_FOO's_email
+          - on-duty_FOO's_email
 
     `
 
