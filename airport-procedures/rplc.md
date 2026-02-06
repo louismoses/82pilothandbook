@@ -11,25 +11,30 @@
 
 4.  Email the scan copy of the FP
 
-    > NOTE: EMAIL FORMAT
+> **NOTE: EMAIL FORMAT**
 
-        - To:
-          - caapclark.fobs@gmail.com
+-   **To:**
 
-        - CC:
-          - airsideflightdata@lipadcorp.com
-          - your_captains_email
-          - on-duty_FOO's_email
+    -   caapclark.fobs@gmail.com
 
-        - Subject:
-          - FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
+-   **CC:**
 
-        - Message:
-          - This is Cadet [Your Name] from A and M Hangar. Attached file is the Flight Plan for RP-C3519 0000Z 2026 February 06
+    -   airsideflightdata@lipadcorp.com
+    -   your_captains_email
+    -   on-duty_FOO's_email
 
-          Thank you!
+-   **Subject:**
 
-5.  Confirm FP is Received
+    -   FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
+
+-   **Message:**
+
+    -   This is Cadet [Your Name] from A and M Hangar.
+    -   Attached file is the Flight Plan for RP-C3519 0000Z 2026 February 06
+
+    Thank you!
+
+5. Confirm FP is Received
 
 ---
 
