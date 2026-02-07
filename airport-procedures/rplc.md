@@ -1,12 +1,12 @@
 # RPLC/CLARK Procedure
 
-## 1. Flight Plan (FP)
+## 1. FLIGHT PLAN (FP)
 
 1.  File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_.
 
 2.  Do your FP and the get it signed by the Police.
 3.  Scan your signed FP. File name should be: **FLIGHT PLAN ([Ident] [Time in Zulu] [Year] [Month] [Date])**.
-    - _sample: **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
+    - _sample : **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
 
 4.  Email the scanned copy of the FP.
 
@@ -42,7 +42,6 @@
     TWR: "Go Ahead"
 
     CDT: "[3519], Cessna 172, A & M Hangar with info code [Alpha], request engine startup clearance"
-
     TWR: "Startup pilot's discreation" or "Startup pilot's discreation, advise when ready to  taxi"
 
     CDT: "*readback"
@@ -68,7 +67,7 @@
 
     > _TAXI INSTRUCTIONS ARE SUBJECT TO CHANGE BASED ON TRAFFIC/CONDITIONS. SOMETIMES INSTRUCTION HAVE "LEFT" OR "RIGHT" WHICH ARE OPTIONAL TO READBACK_
 
-    > Sample: _"Right Delta, Left Foxtrot 4, Left Aplha..."_
+    > Sample : _"Right Delta, Left Foxtrot 4, Left Aplha..."_
 
 2.  Approching short Golf.
 
@@ -90,7 +89,7 @@
     CDT: "*readback"
     ```
 
-    > At Parking Bay:
+    > At Parking Bay :
 
     ```
     CDT: "[3519] bay [208], request engine shutdown clearance"
@@ -124,4 +123,24 @@
 
     > _Ramp control might instruct "Stanby your position" or "Continue taxi after traffic"_.
 
-6.  HELLo
+6.  Contact Tower (118.7) for taxi instruction proceeding Hammerhead 02 (for Runway 02) or Hammerhead 20 (for Runway 20)
+
+    ```
+    CDT: "Clark Tower, [3519], good morning/afternoon, on Ramp 1 holding short Echo 2, request taxi instructions proceeding Hammerhead [02 or 20]"
+    TWR: "3519, continue taxi Echo 2, Golf, Foxtrot 7, Hammerhead 02"
+
+    CDT: "*readback"
+    ```
+
+    > Some prefer : _"Clark Tower, [3519], good morning/afternoon, on Ramp 1 holding short Echo 2, request taxi instructions proceeding Hammerhead [02 or 20] for departure destination/proceeding [Bantayan]"_
+
+## 4. DEPARTURE
+
+> After run up, request departure clearance or query
+
+### 1. PROCEEDING OUTSIDE RPLC
+
+    ```
+    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]" or "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
+    TWR:
+    ```
