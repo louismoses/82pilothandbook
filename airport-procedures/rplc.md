@@ -1,6 +1,6 @@
-## RPLC/CLARK Procedure
+# RPLC/CLARK Procedure
 
-### 1. Flight Plan (FP)
+## 1. Flight Plan (FP)
 
 1.  File your FP 30mins-1hr before FLT. Before asking for clearance. _(CRK ATC_February 2026)_.
 
@@ -30,8 +30,12 @@
         ```
         "Good Morning/Afternoon! This is cadet [Your Name] from A & M Hangar. I would like to confirm the flight plan for RP-C3519, time 0000Z"
         ```
-6.  Do your 360. Get AMTL and ATIS info.
-7.  Request Startup Clearance to CLARK TOWER (118.7).
+
+## 2. STARTUP
+
+1. Do your 360.
+2. Get AMTL and ATIS info.
+3. Request Startup Clearance to CLARK TOWER (118.7).
 
     ```
     CDT: "Clark Tower, [RP-C3519] Good morning/afternoon!"
@@ -47,8 +51,11 @@
 
     ***
 
-8.  Startup.
-9.  Request Taxi instruction to new terminal.
+4. Startup.
+
+## 3. TAXI
+
+1.  Request Taxi instruction to new terminal.
 
     > _\*Prepare to take taxi instruction._
 
@@ -63,7 +70,7 @@
 
     > Sample: _"Right Delta, Left Foxtrot 4, Left Aplha..."_
 
-10. Approching short Golf.
+2.  Approching short Golf.
 
     > Tower might instruct you to contact Ramp Control (121.65), if not:
 
@@ -74,7 +81,7 @@
     CDT: "*readback"
     ```
 
-11. Contact Ramp Control.
+3.  Contact Ramp Control.
 
     ```
     CDT: "Ramp Control, [RP-C3519], Good morning/afternoon, on Foxtrot 3 holding short Gold, request parking bay assignment "
@@ -92,8 +99,8 @@
     CDT: "*readback"
     ```
 
-12. Proceed to Police check with your FP.
-13. Contact Ramp for Startup Clearance.
+4.  Proceed to Police check with your FP.
+5.  Contact Ramp for Startup Clearance.
     - Props clear
     - Master Switch ON, Beacon light ON
     - Avionics Switch ON, Radio ON
@@ -117,4 +124,4 @@
 
     > _Ramp control might instruct "Stanby your position" or "Continue taxi after traffic"_.
 
-14. HELLo
+6.  HELLo
