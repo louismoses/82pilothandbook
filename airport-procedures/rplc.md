@@ -136,11 +136,27 @@
 
 ## 4. DEPARTURE
 
-> After run up, request departure clearance or query
+> After run up, request departure clearance or query.
 
 ### 1. PROCEEDING OUTSIDE RPLC
 
-    ```
-    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]" or "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
-    TWR:
-    ```
+    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
+
+    or
+
+         "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
+    TWR: ""
+
+    CDT: "*readback"
+
+### 2. PROCEEDING CHARLIE AREAS
+
+    CDT: "Clark Tower, [3519], Hammerhead 02 request available Charlie Areas for airworks"
+    TWR: "[3519], Charlie areas 4, 3, and 2 available"
+
+    *choose preferred area
+
+    CDT: "Copy [3519] and ready for departure, request utilize Charlie Area 3 for airworks"
+    TWR: ""
+
+    CDT: "*readback"
