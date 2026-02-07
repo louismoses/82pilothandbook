@@ -10,7 +10,7 @@
 
 4.  Email the scanned copy of the FP.
 
-    > **FOLLOW EMAIL FORMAT**
+    > **EMAIL FORMAT:**
     - **To:** caapclark.fobs@gmail.com
 
     - **CC:** airsideflightdata@lipadcorp.com, your_captains_email, on-duty_FOO's_email
@@ -83,7 +83,7 @@
 3.  Contact Ramp Control.
 
     ```
-    CDT: "Ramp Control, [RP-C3519], Good morning/afternoon, on Foxtrot 3 holding short Gold, request parking bay assignment "
+    CDT: "Ramp Control, [RP-C3519], Good morning/afternoon, on Foxtrot 3 holding short Golf, request parking bay assignment "
     RMP: "[3519] continue taxi Foxtrot 3, left Golf, left Echo 2, bay [208]"
 
     CDT: "*readback"
