@@ -145,7 +145,7 @@
     or
 
          "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
-    TWR: ""
+    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
 
     CDT: "*readback"
 
@@ -157,6 +157,6 @@
     *choose preferred area
 
     CDT: "Copy [3519] and ready for departure, request utilize Charlie Area 3 for airworks"
-    TWR: ""
+    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
 
     CDT: "*readback"
