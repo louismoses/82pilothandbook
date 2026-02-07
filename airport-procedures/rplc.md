@@ -10,7 +10,7 @@
 
 4.  Email the scanned copy of the FP.
 
-    > **NOTE: EMAIL FORMAT**
+    > **FOLLOW EMAIL FORMAT**
     - **To:** caapclark.fobs@gmail.com
 
     - **CC:** airsideflightdata@lipadcorp.com, your_captains_email, on-duty_FOO's_email
@@ -61,6 +61,6 @@
 
     > _TAXI INSTRUCTIONS ARE SUBJECT TO CHANGE BASED ON TRAFFIC/CONDITIONS. SOMETIMES INSTRUCTION HAVE "LEFT" OR "RIGHT" WHICH ARE OPTIONAL TO READBACK_
 
-    > Sample: "Right Delta, Left Foxtrot 4, Left Aplha..."
+    > Sample: _"Right Delta, Left Foxtrot 4, Left Aplha..."_
 
 10. Approching short Golf
