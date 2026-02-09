@@ -41,7 +41,7 @@
     CDT: "Clark Tower, [RP-C3519] Good morning/afternoon!"
     TWR: "Go Ahead"
 
-    CDT: "[3519], Cessna 172, A & M Hangar with info code [Alpha], request engine startup clearance"
+    CDT: "[3519], Cessna 172, A & M Hangar with info code [Alpha], request engine startup"
     TWR: "Startup pilot's discreation" or "Startup pilot's discreation, advise when ready to  taxi"
 
     CDT: "*readback"
@@ -94,7 +94,7 @@
     > At Parking Bay :
 
     ```
-    CDT: "[3519] bay [208], request engine shutdown clearance"
+    CDT: "[3519] bay [208], request engine shutdown"
     RMP: "shutdown approved"
 
     CDT: "*readback"
@@ -108,7 +108,7 @@
     - Contact Ramp 121.65
 
     ```
-    CDT: "Ramp control, [3519], bay [208] request engine startup clearance"
+    CDT: "Ramp control, [3519], bay [208] request engine startup"
     RMP: "[3519], startup approve, advice when ready to taxt"
 
     CDT: "*readback"
@@ -161,10 +161,6 @@
 #### - Tower
 
     CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
-
-    or
-
-         "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
     TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
 
     CDT: "*readback"
@@ -172,7 +168,7 @@
     TWR: [3519], Cleared for take off, [02]
     CDT: "*readback"
 
-    -TAKEOFF-
+> _AIRBORNE_
 
     CDT: "[3519], airborne [02], request right downwind departure proceeding [San Fernando]"
     TWR: Request approved, switch to Clark Approach 119.2, Good day.
