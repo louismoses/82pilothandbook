@@ -140,18 +140,9 @@
 
 > After run up, request departure clearance or query.
 
-### 1. PROCEEDING OUTSIDE RPLC
+### 1. PROCEEDING CHARLIE AREAS
 
-    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
-
-    or
-
-         "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
-    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
-
-    CDT: "*readback"
-
-### 2. PROCEEDING CHARLIE AREAS
+#### - Tower
 
     CDT: "Clark Tower, [3519], Hammerhead 02 request available Charlie Areas for airworks"
     TWR: "[3519], Charlie areas 4, 3, and 2 available"
@@ -162,3 +153,46 @@
     TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
 
     CDT: "*readback"
+
+#### - Approach
+
+### 2. PROCEEDING OUTSIDE RPLC
+
+#### - Tower
+
+    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
+
+    or
+
+         "Clark Tower, [3519], Hammerhead 02 ready for departure, request right crosswind departure destination [Bantayan]"
+    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
+
+    CDT: "*readback"
+
+    TWR: [3519], Cleared for take off, [02]
+    CDT: "*readback"
+
+    -TAKEOFF-
+
+    CDT: "[3519], airborne [02], request right downwind departure proceeding [San Fernando]"
+    TWR: Request approved, switch to Clark Approach 119.2, Good day.
+
+    CDT: "*readback"
+
+#### - Approach
+
+```
+CDT: "Clark Approach, [3519], Good [morning/afternoon] airborne [02], passing [1000], climbing [1500] proceeding [San Fernando]"
+APP: "[3519], Good [morning/afternoon], report over [San Fernando] [1500]"
+
+CDT "*readback"
+```
+
+> After initial contact with Approach :
+
+```
+CDT: "[3519], over [San Fernando] [1500], proceeding [Guagua]"
+APP: "Report over [Guagua]"
+
+CDT: "*readback"
+```
