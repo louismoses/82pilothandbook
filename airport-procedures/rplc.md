@@ -54,6 +54,8 @@
 
 ## 3. TAXI
 
+![Image](https://github.com/user-attachments/assets/154ed9a8-84e2-4ed0-b16c-0371a2c53fcd)
+
 1.  Request Taxi instruction to new terminal.
 
     > _\*Prepare to take taxi instruction._

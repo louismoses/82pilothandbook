@@ -1,3 +1,3 @@
 # 82 Pilot Handbook
 
-A simple compilation of all airwork, maneuver, and cross-country procedures.
+A simple compilation of all airwork, maneuver, and cross-country procedures of cessna 172S.
