@@ -13,7 +13,7 @@
     > **EMAIL FORMAT:**
     - **To:** caapclark.fobs@gmail.com
 
-    - **CC:** airsideflightdata@lipadcorp.com, your_captains_email, on-duty_FOO's_email
+    - **CC:** airsideflightdata@lipadcorp.com, airportcommunications@lipad.corp, your_captains_email, on-duty_FOO's_email
 
     - **Subject:** FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
 
