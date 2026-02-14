@@ -6,20 +6,20 @@
 - [STARTUP](#2-startup)
 - [TAXI](#3-taxi)
 - [DEPARTURE](#4-departure)
-    - [Proceeding Charlie Areas](#1-proceeding-charlie-areas)
-    - [Proceeding Outside RPLC](#2-proceeding-outside-rplc)
+    - [Charlie Areas](#a-proceeding-charlie-areas)
+    - [Outside RPLC](#b-proceeding-outside-rplc)
 
 ## 1. FLIGHT PLAN (FP)
 
-### - Before Requesting Clearance:
+### Before Requesting Clearance:
 
 - File FP 30-60 minutes before flight.
 - Have FP signed by the Police.
-- Scan as: - _sample : **FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
+- Scan as: _**FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
 
     > _FLIGHT PLAN ([Ident] [Time in Zulu] [Year] [Month] [Date] )_.
 
-### - Email Format:
+### Email Format:
 
 **To:** caapclark.fobs@gmail.com
 
