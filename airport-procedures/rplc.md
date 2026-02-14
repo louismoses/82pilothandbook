@@ -5,9 +5,11 @@
 - [FLIGHT PLAN](#1-flight-plan-fp)
 - [STARTUP](#2-startup)
 - [TAXI](#3-taxi)
+    - [New Terminal](#to-new-terminal)
+    - [Hammerhead](#to-hammerhead)
 - [DEPARTURE](#4-departure)
-    - [Charlie Areas](#a-proceeding-charlie-areas)
-    - [Outside RPLC](#b-proceeding-outside-rplc)
+    - [Charlie Areas](#a-proceeding-charlie-areas-local)
+    - [Outside RPLC](#b-proceeding-outside-rplc-non-local)
 
 ## 1. FLIGHT PLAN (FP)
 
@@ -36,7 +38,7 @@ Attached file is the Flight Plan for [RP-C3519] [0000Z] [2026 February 06]
 Thank you!
 ```
 
-### Confirmation
+### Confirmation:
 
 - After 10 minutes, call Clark Tower.
     > _Ask on-duty FOO for confirmation that they received the emailed FP_.
@@ -49,7 +51,8 @@ Thank you!
 
 1. 360 check.
 2. Copy ATIS.
-3. Request Startup Clearance to CLARK TOWER (118.7).
+3. AMTL
+4. Request Startup Clearance to CLARK TOWER (118.7).
 
     ```
     CDT: "Clark Tower, [RP-C3519] Good morning/afternoon!"
@@ -66,7 +69,7 @@ Thank you!
 
 ![Image](https://github.com/user-attachments/assets/154ed9a8-84e2-4ed0-b16c-0371a2c53fcd)
 
-> To New Terminal
+> ### To New Terminal
 
 1.  Request Taxi instruction to new terminal.
 
@@ -114,7 +117,7 @@ Thank you!
 
 4.  Proceed to Police check with your FP.
 
-> To Hammerhead
+> ### To Hammerhead
 
 1.  Contact Ramp for Startup Clearance.
     - Props clear
@@ -155,9 +158,9 @@ Thank you!
 
 > After run up, request departure clearance or query.
 
-### A. PROCEEDING CHARLIE AREAS
+### A. PROCEEDING CHARLIE AREAS (local)
 
-#### - Tower
+#### 1. Tower
 
     CDT: "Clark Tower, [3519], Hammerhead 02 request available Charlie Areas for airworks"
     TWR: "[3519], Charlie areas 4, 3, and 2 available"
@@ -169,11 +172,9 @@ Thank you!
 
     CDT: "*readback"
 
-#### - Approach
+### B. PROCEEDING OUTSIDE RPLC (non-local)
 
-### B. PROCEEDING OUTSIDE RPLC
-
-#### - Tower
+#### 1. Tower
 
     CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
     TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
@@ -190,7 +191,7 @@ Thank you!
 
     CDT: "*readback"
 
-#### - Approach
+#### 2. Approach
 
 ```
 CDT: "Clark Approach, [3519], Good [morning/afternoon] airborne [02], passing [1000], climbing [1500] proceeding [San Fernando]"
@@ -211,5 +212,10 @@ CDT: "*readback"
 ## 5. ARRIVAL
 
 ### LOCAL
+
+```
+CDT: "[3519], over [Magalang], [1500]"
+TWR: "[3519], proceed over"
+```
 
 ### NON-LOCAL
