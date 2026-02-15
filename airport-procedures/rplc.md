@@ -275,7 +275,7 @@ Subsequent Reporting:
 
 ```
 CDT:  "[3519], over [Paniqui], [1500], proceeding [La Paz]"
-APP: "[3519], maintain VFR report over [Paniqui]"
+APP: "[3519], maintain VFR report over [La Paz]"
 ```
 
 > Continue reporting as instructed.
