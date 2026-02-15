@@ -11,6 +11,8 @@
     - [Charlie Areas](#a-proceeding-charlie-areas-local)
     - [Outside RPLC](#b-proceeding-outside-rplc-non-local)
 - [ARRIVAL](#5-arrival)
+    - [Local](#local)
+    - [Non-Local](#non-local)
 
 ## 1. FLIGHT PLAN (FP)
 
@@ -280,7 +282,7 @@ APP: "[3519], maintain VFR report over [La Paz]"
 
 > Continue reporting as instructed.
 
-> Epect transfer to Tower (118.7).
+> Expect transfer to Tower (118.7).
 
 #### 2. When Instructed to Contact Tower (118.7)
 
