@@ -1,209 +1,254 @@
-# RPLC/CLARK Procedure
+# RPLC / Clark Aerodrome Procedures
 
-> Content
+## Table of Contents
 
-- [FLIGHT PLAN](#1-flight-plan-fp)
-- [STARTUP](#2-startup)
-- [TAXI](#3-taxi)
-    - [New Terminal](#to-new-terminal)
-    - [Hammerhead](#to-hammerhead)
-- [DEPARTURE](#4-departure)
-    - [Charlie Areas](#a-proceeding-charlie-areas-local)
-    - [Outside RPLC](#b-proceeding-outside-rplc-non-local)
-- [ARRIVAL](#5-arrival)
-    - [Local](#local)
-    - [Non-Local](#non-local)
+- [1. Flight Plan (FP)](#1-flight-plan-fp)
+    - [1.1 Filing Requirements](#11-filing-requirements)
+    - [1.2 Email Format](#12-email-format)
+    - [1.3 Confirmation](#13-confirmation)
+- [2. Startup](#2-startup)
+- [3. Taxi](#3-taxi)
+    - [3.1 Taxi to New Terminal](#31-taxi-to-new-terminal)
+    - [3.2 Taxi to Hammerhead](#32-taxi-to-hammerhead)
+- [4. Departure](#4-departure)
+    - [4.1 Local – Charlie Areas](#41-local--charlie-areas)
+    - [4.2 Non-Local Departure](#42-non-local-departure)
+- [5. Arrival](#5-arrival)
+    - [5.1 Local Arrival](#51-local-arrival)
+    - [5.2 Non-Local Arrival](#52-non-local-arrival)
 
-## 1. FLIGHT PLAN (FP)
+---
 
-### Before Requesting Clearance:
+---
 
-- File FP 30-60 minutes before flight.
-- Have FP signed by the Police.
-- Scan as: _**FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf**_
+# 1. Flight Plan (FP)
 
-    > _FLIGHT PLAN ([Ident] [Time in Zulu] [Year] [Month] [Date] )_.
+## 1.1 Filing Requirements
 
-### Email Format:
+- File 30–60 minutes before flight.
+- Ensure FP is signed by Police.
+- Scan filename format:
 
-**To:** caapclark.fobs@gmail.com
+> _FLIGHT PLAN (Ident TimeZulu Year Month Date).pdf_
 
-**CC:** airsideflightdata@lipadcorp.com, your_captains_email, on-duty_FOO's_email
+Example:  
+_FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf_
 
-**Subject:** FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
+## 1.2 Email Format
 
-**Message:**
+**To**
+
+- caapclark.fobs@gmail.com
+
+**CC**
+
+- airsideflightdata@lipadcorp.com
+- Captain
+- On-duty FOO
+
+**Subject**
 
 ```
-This is Cadet [Your Name] from A and M Hangar.
-Attached file is the Flight Plan for [RP-C3519] [0000Z] [2026 February 06]
-
-Thank you!
+FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
 ```
 
-### Confirmation:
-
-- After 10 minutes, call Clark Tower.
-    > _Ask on-duty FOO for confirmation that they received the emailed FP_.
+**Message Template**
 
 ```
-"Good Morning/Afternoon! This is cadet [Your Name] from A & M Hangar. I would like to confirm the flight plan for RP-C3519, time 0000Z"
+This is Cadet [Name] from A & M Hangar.
+Attached is the Flight Plan for RP-C3519 0000Z 2026 February 06.
+
+Thank you.
 ```
 
-## 2. STARTUP
+## 1.3 Confirmation
 
-1. 360 check.
-2. Copy ATIS.
-3. AMTL
-4. Request Startup Clearance to CLARK TOWER (118.7).
+After approximately 10 minutes:
 
-    ```
-    CDT: "Clark Tower, [RP-C3519] Good morning/afternoon!"
-    TWR: "Go Ahead"
+```
+CDT: "Clark Tower, Cadet [Name] from A & M Hangar, confirming flight plan RP-C3519 time 0000Z."
+```
 
-    CDT: "[3519], Cessna 172, A & M Hangar with info code [Alpha], request engine startup"
-    TWR: "Startup pilot's discretion" or "Startup pilot's discretion, advise when ready to  taxi"
+---
 
-    CDT: "*readback"
+---
 
-    ```
+# 2. Startup
 
-## 3. TAXI
+## 2.1 Before Startup
+
+- 360° check
+- Copy ATIS
+- Complete AMTL
+
+## 2.2 Startup Clearance (118.7)
+
+```
+CDT: "Clark Tower, RP-C3519, good morning/afternoon."
+TWR: "Go ahead."
+
+CDT: "RP-C3519, Cessna 172, A & M Hangar with information Alpha, request engine startup."
+TWR: "Startup at pilot’s discretion."
+CDT: "*readback*"
+```
+
+---
+
+---
+
+# 3. Taxi
 
 ![Image](https://github.com/user-attachments/assets/154ed9a8-84e2-4ed0-b16c-0371a2c53fcd)
 
-> ### To New Terminal
-
-1.  Request Taxi instruction to new terminal.
-
-    > _\*Prepare to take taxi instruction._
-
-    ```
-    CDT: "Tower, [Ident], A & M Hangar request taxi instruction new terminal"
-    TWR: "[Ident], taxi caution Kilo 1, Delta, Foxtrot 4, Alpha, Foxtrot 3, hold short Golf"
-
-    CDT: "*readback"
-    ```
-
-    > _TAXI INSTRUCTIONS ARE SUBJECT TO CHANGE BASED ON TRAFFIC/CONDITIONS. SOMETIMES INSTRUCTION HAVE "LEFT" OR "RIGHT" WHICH ARE OPTIONAL TO READBACK_
-
-    > Sample : _"Right Delta, Left Foxtrot 4, Left Aplha..."_
-
-2.  Approaching short Golf.
-
-    > Tower might instruct you to contact Ramp Control (121.65), if not:
-
-    ```
-    CDT: "[3519] on Foxtrot 3 approaching Golf"
-    TWR: "[3519] contact Ramp 121.65"
-
-    CDT: "*readback"
-    ```
-
-3.  Contact Ramp Control.
-
-    ```
-    CDT: "Ramp Control, [RP-C3519], Good morning/afternoon, on Foxtrot 3 holding short Golf, request parking bay assignment "
-    RMP: "[3519] continue taxi Foxtrot 3, left Golf, left Echo 2, bay [208]"
-
-    CDT: "*readback"
-    ```
-
-    > At Parking Bay :
-
-    ```
-    CDT: "[3519] bay [208], request engine shutdown"
-    RMP: "shutdown approved"
-
-    CDT: "*readback"
-    ```
-
-4.  Proceed to Police check with your FP.
-
-> ### To Hammerhead
-
-1.  Contact Ramp for Startup Clearance.
-    - Props clear
-    - Master Switch ON, Beacon light ON
-    - Avionics Switch ON, Radio ON
-    - Contact Ramp 121.65
-
-    ```
-    CDT: "Ramp control, [3519], bay [208] request engine startup"
-    RMP: "[3519], startup approve, advise when ready to taxi"
-
-    CDT: "*readback"
-    ```
-
-    - Engine Startup Checklist, then contact Ramp for taxi.
-
-    ```
-    CDT: "[3519], bay [208], ready to taxi"
-    RMP: "[3519] make 180 to left, continue taxi Echo 2, approaching Echo 2 contact Tower 118.7"
-
-    CDT: "*readback"
-    ```
-
-    > _Ramp control might instruct "Stanby your position" or "Continue taxi after traffic"_.
-
-2.  Contact Tower (118.7) for taxi instruction proceeding Hammerhead 02 (for Runway 02) or Hammerhead 20 (for Runway 20)
-
-    ```
-    CDT: "[3519], Ramp 1 holding short Echo 2, request taxi instructions proceeding Hammerhead [02 or 20]"
-    TWR: "3519, continue taxi Echo 2, Golf, Foxtrot 7, Hammerhead 02"
-
-    CDT: "*readback"
-    ```
-
-    > Some prefer : _"Clark Tower, [RP-C3519], good morning/afternoon, on Ramp 1 holding short Echo 2, request taxi instructions proceeding Hammerhead [02 or 20] for departure destination/proceeding [Bantayan]"_
-
-## 4. DEPARTURE
-
-> After run up, request departure clearance or query.
-
-### A. PROCEEDING CHARLIE AREAS (local)
-
-#### 1. Tower
-
-    CDT: "Clark Tower, [3519], Hammerhead 02 request available Charlie Areas for airworks"
-    TWR: "[3519], Charlie areas 4, 3, and 2 available"
-
-    *choose preferred area
-
-    CDT: "Copy [3519] and ready for departure, request Charlie Area 3 for airworks"
-    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
-
-    CDT: "*readback"
-
-### B. PROCEEDING OUTSIDE RPLC (non-local)
-
-#### 1. Tower
-
-    CDT: "Clark Tower, [3519], Hammerhead 02 ready for departure destination [Bantayan]"
-    TWR: "Lineup runway [02 or 20]" or "Hold short runway [02 or 20]"
-
-    CDT: "*readback"
-
-    TWR: [3519], Cleared for takeoff, [02]
-    CDT: "*readback"
-
-> _AIRBORNE_
-
-    CDT: "[3519], airborne [02], request right downwind departure proceeding [San Fernando]"
-    TWR: Request approved, switch to Clark Approach 119.2, Good day.
-
-    CDT: "*readback"
-
-#### 2. Approach
+## 3.1 Taxi to New Terminal
 
 ```
-CDT: "Clark Approach, [3519], Good [morning/afternoon] airborne [02], passing [1000], climbing [1500] proceeding [San Fernando]"
+CDT: "Tower, [RP-C3519], A & M Hangar request taxi instruction new terminal"
+TWR: "[3519], taxi caution Kilo 1, Delta, Foxtrot 4, Alpha, Foxtrot 3, hold short Golf"
+CDT: "*readback*"
+```
+
+> Taxi instructions are subject to change based on traffic and conditions. Instructions may have "LEFT" or "RIGHT" which are optional to readback
+
+> Example : _"Right Delta, Left Foxtrot 4, Left Aplha..."_
+
+Approaching holding point:
+
+```
+CDT: "[3519] on [Foxtrot 3] approaching [Golf]."
+TWR: "[3519] contact Ramp 121.65."
+CDT: "*readback*"
+```
+
+Ramp Control (121.65):
+
+```
+CDT: "Ramp Control, [RP-C3519], on [Foxtrot 3] holding short [Golf], request parking bay assignment."
+RMP: "[3519] continue taxi Foxtrot 3, left Golf, left Echo 2, bay [208]"
+CDT: "*readback*"
+```
+
+At parking bay:
+
+```
+CDT: "[3519] at bay [Number], request engine shutdown."
+RMP: "Shutdown approved."
+CDT: "*readback*"
+```
+
+Proceed to Police check with your Flight Plan.
+
+## 3.2 Taxi to Hammerhead
+
+Contact Ramp for Startup Clearance.
+
+- Props clear
+- Master Switch ON, Beacon light ON
+- Avionics Switch ON, Radio ON
+- Contact Ramp 121.65
+
+Ramp Startup:
+
+```
+CDT: "Ramp Control, [RP-C3519], bay [Number], request engine startup."
+RMP: "Startup approved, advise when ready to taxi."
+CDT: "*readback*"
+```
+
+After startup checklist:
+
+```
+CDT: "[3519], bay [Number], ready to taxi."
+RMP: "[3519] make 180 to left, continue taxi Echo 2, approaching Echo 2 contact Tower 118.7"
+CDT: "*readback*"
+```
+
+> _Ramp control might instruct "Stanby your position" or "Continue taxi after traffic"_.
+
+Contact Tower (118.7):
+
+```
+CDT: "Clark Tower, [RP-C3519], holding short Echo 2, request taxi to Hammerhead [02/20]."
+TWR: "[3519], continue taxi Echo 2, Golf, Foxtrot 7, Hammerhead 02"
+CDT: "*readback*"
+```
+
+> Some prefer : _"Clark Tower, [RP-C3519], good morning/afternoon, on Ramp 1 holding short Echo 2, request taxi instructions proceeding Hammerhead [02 or 20] for departure destination/proceeding [Bantayan]"_
+
+---
+
+---
+
+# 4. Departure
+
+## 4.1 Local – Charlie Areas
+
+```
+CDT: "Clark Tower, [3519] at Hammerhead 02, request available Charlie Areas for airwork."
+TWR: "[3519], Charlie areas 4, 3, and 2 available"
+```
+
+_\*choose preferred area_
+
+```
+CDT: "[3519] ready for departure, request Charlie Area [Number]."
+TWR: "Line up runway [02/20]" or "Hold short runway [02/20]."
+CDT: "*readback*"
+```
+
+After take-off:
+
+```
+CDT: "[3519] airborne runway 02, request right downwind departure proceeding Charlie [3]."
+TWR: "Approved, report over Charlie [3]."
+CDT: "*readback*"
+```
+
+Over Charlie Area:
+
+```
+CDT: "[3519] over Charlie [3], utilizing 2500 feet and below, airwork."
+TWR: "Roger."
+```
+
+Terminating:
+
+```
+CDT: "[3519] over Charlie [3], terminating airwork, request landing instruction."
+```
+
+---
+
+## 4.2 Non-Local Departure
+
+```
+CDT: "Clark Tower, [3519] at Hammerhead 02, ready for departure destination [Location]."
+TWR: "Line up runway [02/20]" or "Hold short."
+CDT: "*readback*"
+```
+
+```
+TWR: "[3519] cleared for take-off runway 02."
+CDT: "*readback*"
+```
+
+After take-off:
+
+```
+CDT: "[3519] airborne runway 02, request right downwind departure proceeding [Location]."
+TWR: "Approved, contact Clark Approach 119.2."
+CDT: "*readback*"
+```
+
+Approach (119.2):
+
+```
+CDT: "Clark Approach, [RP-C3519],Good [morning/afternoon], airborne runway [02], passing [1000] feet climbing [1500] feet proceeding [Location]."
 APP: "[3519], Good [morning/afternoon], report over [San Fernando] [1500]"
-
-CDT "*readback"
+CDT: "*readback*"
 ```
 
-> After initial contact with Approach :
+> Subsequent Reporting :
 
 ```
 CDT: "[3519], over [San Fernando] [1500], proceeding [Guagua]"
@@ -212,19 +257,18 @@ APP: "Report over [Guagua]"
 CDT: "*readback"
 ```
 
-## 5. ARRIVAL
+---
 
-### LOCAL
+---
 
-_(From Charlie Areas / Did not land at another aerodrome)_
+# 5. Arrival
 
-#### Contact Tower (118.7)
+## 5.1 Local Arrival
 
 ```
-CDT: "[3519], over [Magalang], [1500]"
-TWR: "[3519], proceed over [Feliciano]"
-
-CDT: "*readback"
+CDT: "[3519] over [Magalang] [1500] feet."
+TWR: "[3519] proceed over [Feliciano]"
+CDT: "*readback*"
 ```
 
 ```
@@ -234,14 +278,12 @@ TWR: "[3519], join downwind Runway [02], report established"
 CDT: "*readback"
 ```
 
-> Follow ATC instructions for sequencing and traffic.
-
-##### After landing:
+After landing:
 
 ```
-CDT: "[3519], landed Runway [02]."
+CDT: "[3519] landed runway 02."
 TWR: "[3519], make 180 and vacate Foxtrot 5"
-CDT: "*readback"
+CDT: "*readback*"
 ```
 
 ```
@@ -249,41 +291,32 @@ TWR: "Taxi via Foxtrot 5, Alpha, Foxtrot 4, Delta, Kilo 1."
 CDT: "*readback"
 ```
 
-> Approaching A and M Hangar, close flight plan.
+Approaching A and M Hangar, close flight plan.
 
-### NON-LOCAL
+---
 
-_(From another aerodrome)_
+## 5.2 Non-Local Arrival
 
-#### 1. Approach (119.2)
-
-Initial Greeting:
+Initial contact (119.2):
 
 ```
-CDT: "Clark Approach, [RP-C3519], Good morning/afternoon."
-APP: "[3519] go ahead."
+CDT: "Clark Approach, [RP-C3519], good morning/afternoon."
+APP: "Go ahead."
 ```
 
-Position & Request:
-
 ```
-CDT:  "[3519], C172, departed [San Fernando La Union] over [Bayambang], [1500], request landing instruction Runway [02] main."
+CDT: "[3519], C172, departed [Origin], over [Bayambang], [1500] feet, request landing runway [02] main."
 APP: "[3519], maintain VFR report over [Paniqui]"
-
-CDT: "*readback"
+CDT: "*readback*"
 ```
 
 Subsequent Reporting:
 
 ```
-CDT:  "[3519], over [Paniqui], [1500], proceeding [La Paz]"
+CDT:  "[3519], over [Paniqui], [1500] feet, proceeding [La Paz]"
 APP: "[3519], maintain VFR report over [La Paz]"
 ```
 
-> Continue reporting as instructed.
+Continue position reporting as instructed.
 
-> Expect transfer to Tower (118.7).
-
-#### 2. When Instructed to Contact Tower (118.7)
-
-> Follow LOCAL ARRIVAL procedures from this point.
+Expect transfer to Tower (118.7) and follow [Local Arrival](#51-local-arrival) procedures.
