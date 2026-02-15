@@ -10,7 +10,7 @@
 - [DEPARTURE](#4-departure)
     - [Charlie Areas](#a-proceeding-charlie-areas-local)
     - [Outside RPLC](#b-proceeding-outside-rplc-non-local)
-- [ARRIVAl](#5-arrival)
+- [ARRIVAL](#5-arrival)
 
 ## 1. FLIGHT PLAN (FP)
 
@@ -214,6 +214,10 @@ CDT: "*readback"
 
 ### LOCAL
 
+_(From Charlie Areas / Did not land at another aerodrome)_
+
+#### Contact Tower (118.7)
+
 ```
 CDT: "[3519], over [Magalang], [1500]"
 TWR: "[3519], proceed over [Feliciano]"
@@ -223,22 +227,61 @@ CDT: "*readback"
 
 ```
 CDT: "[3519], over [Feliciano], [1500]"
-TWR: "[3519], join downwind"
+TWR: "[3519], join downwind Runway [02], report established"
 
 CDT: "*readback"
 ```
 
-> _Follow ATC instructions and monitor traffic._
+> Follow ATC instructions for sequencing and traffic.
 
-- Taxi to A and M Hangar.
+##### After landing:
+
+```
+CDT: "[3519], landed Runway [02]."
+TWR: "[3519], make 180 and vacate Foxtrot 5"
+CDT: "*readback"
+```
+
+```
+TWR: "Taxi via Foxtrot 5, Alpha, Foxtrot 4, Delta, Kilo 1."
+CDT: "*readback"
+```
+
+> Approaching A and M Hangar, close flight plan.
 
 ### NON-LOCAL
 
-#### Approach
+_(From another aerodrome)_
 
-- Initial greeting
-- Contact with info code.
-    > _[3519], C172, departed [San Fernando La Union] over [Bayambang], [1500], request landing instruction Runway [02] main._
-- Contact tower.
+#### 1. Approach (119.2)
 
-- Taxi to New Terminal
+Initial Greeting:
+
+```
+CDT: "Clark Approach, [RP-C3519], Good morning/afternoon."
+APP: "[3519] go ahead."
+```
+
+Position & Request:
+
+```
+CDT:  "[3519], C172, departed [San Fernando La Union] over [Bayambang], [1500], request landing instruction Runway [02] main."
+APP: "[3519], maintain VFR report over [Paniqui]"
+
+CDT: "*readback"
+```
+
+Subsequent Reporting:
+
+```
+CDT:  "[3519], over [Paniqui], [1500], proceeding [La Paz]"
+APP: "[3519], maintain VFR report over [Paniqui]"
+```
+
+> Continue reporting as instructed.
+
+> Epect transfer to Tower (118.7).
+
+#### 2. When Instructed to Contact Tower (118.7)
+
+> Follow LOCAL ARRIVAL procedures from this point.
