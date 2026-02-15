@@ -87,7 +87,7 @@ CDT: "Clark Tower, Cadet [Name] from A & M Hangar, confirming flight plan RP-C35
 CDT: "Clark Tower, RP-C3519, good morning/afternoon."
 TWR: "Go ahead."
 
-CDT: "RP-C3519, Cessna 172, A & M Hangar with information Alpha, request engine startup."
+CDT: "RP-C3519, Cessna 172, A & M Hangar with information [Alpha], request engine startup."
 TWR: "Startup at pilot’s discretion."
 CDT: "*readback*"
 ```
@@ -103,7 +103,7 @@ CDT: "*readback*"
 ## 3.1 Taxi to New Terminal
 
 ```
-CDT: "Tower, [RP-C3519], A & M Hangar request taxi instruction new terminal"
+CDT: "Tower, [RP-C3519], A & M Hangar, Engine startup complete, request taxi instruction new terminal"
 TWR: "[3519], taxi caution Kilo 1, Delta, Foxtrot 4, Alpha, Foxtrot 3, hold short Golf"
 CDT: "*readback*"
 ```
