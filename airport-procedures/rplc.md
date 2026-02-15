@@ -215,7 +215,29 @@ CDT: "*readback"
 
 ```
 CDT: "[3519], over [Magalang], [1500]"
-TWR: "[3519], proceed over"
+TWR: "[3519], proceed over [Feliciano]"
+
+CDT: "*readback"
 ```
 
+```
+CDT: "[3519], over [Feliciano], [1500]"
+TWR: "[3519], join downwind"
+
+CDT: "*readback"
+```
+
+> _Follow ATC instructions and monitor traffic._
+
+- Taxi to A and M Hangar.
+
 ### NON-LOCAL
+
+#### Approach
+
+- Initial greeting
+- Contact with info code.
+    > _[3519], C172, departed [San Fernando La Union] over [Bayambang], [1500], request landing instruction Runway [02] main._
+- Contact tower.
+
+- Taxi to New Terminal
