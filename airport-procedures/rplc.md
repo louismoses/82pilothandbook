@@ -10,6 +10,7 @@
 - [DEPARTURE](#4-departure)
     - [Charlie Areas](#a-proceeding-charlie-areas-local)
     - [Outside RPLC](#b-proceeding-outside-rplc-non-local)
+- [ARRIVAl](#5-arrival)
 
 ## 1. FLIGHT PLAN (FP)
 
