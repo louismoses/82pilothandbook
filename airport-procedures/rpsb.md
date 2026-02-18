@@ -61,7 +61,7 @@ Thank you.
 
 After approximately 10 minutes, call tower to confirm.
 
-- 0933-934-3356
+- 0933-934-335\_
 
 ```
 CDT: "Mactan Tower, Cadet [Name] from AAG Bantayan Station, confirming flight plan for RP-C3519 time 0000Z."
