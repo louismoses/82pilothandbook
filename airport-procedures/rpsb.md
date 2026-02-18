@@ -68,3 +68,42 @@ CDT: "Mactan Tower, Cadet [Name] from AAG Bantayan Station, confirming flight pl
 ```
 
 ---
+
+# 2. Startup
+
+# 3. Taxi
+
+## 3.1 Taxi to North/South Taxiway
+
+```
+CDT: " Bantayan Advisory, [3599], engine runup completed, will hold short North/South Taxiway."
+```
+
+# 3. Departure
+
+```
+CDT: " Bantayan Advisory, [3599], holding short /north/south taxiway, query traffic base, final"
+
+CDT: "Negative traffic received, [3599], lining up runway [34/16]"
+
+CDT: "Bantayan Advisory, [3599], rolling [34/16] Bantayan "
+```
+
+## Local
+
+```
+CDT: "[3599], airborne [34/16] Bantayan "
+
+CDT: "[3599], [crosswind/downwind] [34/16] Bantayan"
+
+CDT: "[3599], [base/final] [34/16] Bantayan, [full stop/touch and go] "
+```
+
+## Non-local
+
+```
+CDT: "Bantayan Advisory, [3599], airborne [34/16], straight out departure, destination [Ormoc], will report living the pattern "
+
+CDT: "Bantayan Advisory, [3599], living the pattern passing 1000ft, climbing [2500ft] destination [Ormoc] via [San Remigio] "
+
+```
