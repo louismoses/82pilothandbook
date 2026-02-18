@@ -15,4 +15,14 @@
 
 ## 2. LAZY EIGHT
 
+- POCS complete
+- 2,500 ft, 360° heading
+- Pitch 15–20°, bank 15°
+- 45°: bank 30°
+- 90°: 55–60 KIAS, begin descent
+- 135°: bank 20°
+- 180°: roll out
+- 2,500 ft, 90 KIAS
+- Repeat opposite side
+
 ## 3. EIGHT ON PYLONS

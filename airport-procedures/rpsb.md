@@ -82,7 +82,7 @@ CDT: " Bantayan Advisory, [3599], engine runup completed, will hold short North/
 # 4. Departure
 
 ```
-CDT: " Bantayan Advisory, [3599], holding short /north/south taxiway, query traffic base, final"
+CDT: " Bantayan Advisory, [3599], holding short north/south taxiway, query traffic base, final"
 
 CDT: "Negative traffic received, [3599], lining up runway [34/16]"
 
