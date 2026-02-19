@@ -76,7 +76,7 @@ CDT: "Mactan Tower, Cadet [Name] from AAG Bantayan Station, confirming flight pl
 ## 3.1 Taxi to North/South Taxiway
 
 ```
-CDT: " Bantayan Advisory, [3599], C172, on main ramp engine runup completed, will hold short South Taxiway."
+CDT: " Bantayan Advisory, [3599], C172, main ramp, engine runup completed, will hold short South Taxiway. (*number 2 for departure)"
 ```
 
 # 4. Departure
