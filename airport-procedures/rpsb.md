@@ -102,7 +102,7 @@ CDT: "[3599], [base/final] [34] Bantayan, [full stop/touch and go] "
 ## 4.2 Non-local
 
 ```
-CDT: "Bantayan Advisory, [3599], airborne [34/16], straight out departure, destination [Ormoc], will report living the pattern "
+CDT: "Bantayan Advisory, [3599], airborne [34], right downwind departure, destination [Ormoc], will report living the pattern "
 
 CDT: "Bantayan Advisory, [3599], living the pattern passing 1000ft, climbing [2500ft] destination [Ormoc] via [San Remigio] "
 
