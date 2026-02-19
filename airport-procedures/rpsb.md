@@ -107,3 +107,19 @@ CDT: "Bantayan Advisory, [3599], airborne [34], right downwind departure, destin
 CDT: "Bantayan Advisory, [3599], living the pattern passing 1000ft, climbing [2500ft] destination [Ormoc] via [San Remigio] "
 
 ```
+
+# 5. Arrival
+
+```
+CDT: "Bantayan Advisory, [3599], over [Madridejos], [1500ft], proceeding west of station"
+
+CDT: "Bantayan Advisory, [3599], west of station, [1500ft], proceeding overhead station, query traffic over the station"
+
+CDT: "Negative traffic received, [3599] will proceed over the station"
+
+CDT: "Bantayan Advisory, [3599] overhead station [1500ft], query traffic on the pattern"
+
+CDT: "Negative traffic received, [3599] will join mid-downwind"
+```
+
+> Follow [local procedure](#41-local)
