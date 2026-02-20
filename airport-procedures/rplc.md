@@ -69,7 +69,9 @@ After approximately 10 minutes:
 CDT: "Clark Tower, Cadet [Name] from A & M Hangar, confirming flight plan RP-C3519 time 0000Z."
 ```
 
----
+## 1.4 Others
+
+- [Equipment Codes](https://skybrary.aero/articles/flight-plan-completion)
 
 ---
 
