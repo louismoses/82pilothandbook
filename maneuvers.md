@@ -1,6 +1,10 @@
 # Maneuvers Callouts
 
-## 1. CHANDELLE
+- [Chandelle](#chandelle)
+- [Lazy Eight](#lazy-eight)
+- [Eight on Pylons](#eight-on-pylons)
+
+## CHANDELLE
 
 - POCS complete
 - Altitude 2,500 ft, heading 360°
@@ -13,7 +17,7 @@
 - Ease back pressure
 - Passing 90 KIAS: reduce power to 2100 RPM
 
-## 2. LAZY EIGHT
+## LAZY EIGHT
 
 - POCS complete
 - 2,500 ft, 360° heading
@@ -25,7 +29,7 @@
 - 2,500 ft, 90 KIAS
 - Repeat opposite side
 
-## 3. EIGHT ON PYLONS
+## EIGHT ON PYLONS
 
 - POCS complete
 - 90 KIAS, 900 ft
@@ -34,3 +38,18 @@
 - Maintain 90 KIAS
 - Abeam second reference point: roll out
 - Right turn
+
+## Final Approach
+
+- Maintain centerline
+- Airspeed 70 knots
+- On the glide (aiming point over compass)
+- Approaching aiming point: break the glide
+- Chop
+- Level off
+- Passing aiming point: hold
+- As sink begins: flare
+- Hold
+- Touchdown
+- Rollout
+- Break (soft medium hard release)
