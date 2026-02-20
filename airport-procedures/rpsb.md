@@ -82,7 +82,7 @@ CDT: " Bantayan Advisory, [3599], C172, main ramp, engine runup completed, will 
 # 4. Departure
 
 ```
-CDT: " Bantayan Advisory, [3599], holding short south taxiway, query traffic on the pattern"
+CDT: "Bantayan Advisory, [3599], holding short south taxiway, query traffic on the pattern"
 
 CDT: "Negative traffic received, [3599], lining up runway [34] Bantayan"
 
@@ -96,7 +96,7 @@ CDT: "[3599], airborne [34] Bantayan [Touch and go]"
 
 CDT: "[3599], [crosswind/downwind] [34/16] Bantayan [touch and go]"
 
-CDT: "[3599], [base/final] [34] Bantayan, [full stop/touch and go] "
+CDT: "[3599], [base/final] [34] Bantayan, [full stop/touch and go]"
 ```
 
 ## 4.2 Non-local

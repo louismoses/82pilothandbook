@@ -26,3 +26,11 @@
 - Repeat opposite side
 
 ## 3. EIGHT ON PYLONS
+
+- POCS complete
+- 90 KIAS, 900 ft
+- Enter 45° left downwind
+- Reference point on wingtip
+- Maintain 90 KIAS
+- Abeam second reference point: roll out
+- Right turn
