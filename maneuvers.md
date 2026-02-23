@@ -8,12 +8,12 @@
 
 - POCS complete
 - Altitude 2,500 ft, heading 360°
-- Bank 15°, full power
-- Pitch up 15–20° (maintain 55–60 KIAS)
-- At 45° of turn: increase bank to 30°
+- Bank 30°, passing 15° full power
+- Pitch up 15–20°
+- Maintain 55–60 KIAS
 - At 90°: reduce bank to 20°
 - Approaching 180°: roll out
-- Hold 55–60 KIAS for 5 sec
+- Hold 55–60 KIAS
 - Ease back pressure
 - Passing 90 KIAS: reduce power to 2100 RPM
 
@@ -23,7 +23,7 @@
 - 2,500 ft, 360° heading
 - Pitch 15–20°, bank 15°
 - 45°: bank 30°
-- 90°: 55–60 KIAS, begin descent
+- 90°: 55–60 KIAS, slowly slice
 - 135°: bank 20°
 - 180°: roll out
 - 2,500 ft, 90 KIAS
@@ -38,6 +38,9 @@
 - Maintain 90 KIAS
 - Abeam second reference point: roll out
 - Right turn
+
+> reference ahead: pitch down
+> reference behind: pitch up
 
 ## Final Approach
 
