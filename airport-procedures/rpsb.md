@@ -35,7 +35,7 @@ _FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf_
 **To**
 
 ```
-caap.mactanfss@gmail.com
+mactanfss @caap.gov.ph
 ```
 
 **CC**
