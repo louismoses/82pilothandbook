@@ -35,7 +35,7 @@ _FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf_
 **To**
 
 ```
-mactanfss @caap.gov.ph
+mactanfss@caap.gov.ph
 ```
 
 **CC**
@@ -47,14 +47,14 @@ mactanfss @caap.gov.ph
 **Subject**
 
 ```
-FLIGHT PLAN (RP-C3519 0000Z 2026 February 06)
+FLIGHT PLAN [IDENT] [Zulu_Time] [YEAR_MONTH_DATE]
 ```
 
 **Message Template**
 
 ```
 This is Cadet [Name] from AAG Bantayan Station.
-Attached is the Flight Plan for RP-C3519 0000Z 2026 February 06.
+Attached is the Flight Plan for [IDENT] [Zulu_Time] [YEAR_MONTH_DATE].
 
 Thank you.
 ```
