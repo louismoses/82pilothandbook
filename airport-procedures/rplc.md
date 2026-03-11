@@ -38,13 +38,18 @@ _FLIGHT PLAN (RP-C3519 0000Z 2026 February 06).pdf_
 
 **To**
 
-- caapclark.fobs@gmail.com
+```
+caapclark.fobs@gmail.com
+```
 
 **CC**
 
-- airsideflightdata@lipadcorp.com
 - Captain
 - On-duty FOO
+
+```
+airsideflightdata@lipadcorp.com
+```
 
 **Subject**
 
