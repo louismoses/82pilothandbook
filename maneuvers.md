@@ -39,8 +39,12 @@
 - Abeam second reference point: roll out
 - Right turn
 
-> reference ahead: pitch down
-> reference behind: pitch up
+> reference
+
+```
+ahead: pitch down
+behind: pitch up
+```
 
 ## Final Approach
 
@@ -56,3 +60,34 @@
 - Touchdown
 - Rollout
 - Break (soft medium hard release)
+
+## Interception
+
+> Determine
+
+```
+- LOP
+- Radial to Intercept
+- Procedure
+- Angle
+- Intercept HDG
+```
+
+### Basic
+
+#### HSI
+
+- Set HSI (OBS) proper setting (radial = tail / course = head)
+- Set HDG bug (Course ± intercept angle),needle side, turn
+- On heading: wait for needle alive
+- Needle alive: set HDG bug final course
+- Needle alive: turn to intercept
+- Radial intercepted
+
+#### RMI
+
+- Radial is on Right/Left
+- Set HDG bug (Course ± intercept angle), Radial Side, turn
+- 20 deg before : set HDG bug final course
+- 10 deg before : turn to intercept (5 T's)
+- Radial intercepted
