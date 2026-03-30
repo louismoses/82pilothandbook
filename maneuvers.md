@@ -91,3 +91,13 @@ behind: pitch up
 - 20 deg before : set HDG bug final course
 - 10 deg before : turn to intercept (5 T's)
 - Radial intercepted
+
+### Boxing
+
+- Set HSI (OBS) proper setting (radial = tail / course = head)
+- Set HDG bug to desired Radial
+- [Inbound: Change of flag timer starts 2min]
+- Set HDG bug (Course ± intercept angle: 90/60),needle side, turn
+- Needle alive: set HDG bug final course
+- Needle alive: turn to intercept
+- Radial intercepted
