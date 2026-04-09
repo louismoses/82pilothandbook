@@ -109,3 +109,16 @@ behind: pitch up
 ### Parallel
 
 ### Direct
+
+## DME Arc
+
+- **2 DME before lead:** Set HSI to desired radial
+- **1 DME before lead:** Set HDG bug
+    - Inbound: ±80° from current HDG
+    - Outbound: ±100° from current HDG
+- **At lead DME:** Turn toward the arc/desired radial
+- **Maintain DME:** Keep RMI horizontal
+- **On arc:**
+    - DME short → hold heading
+    - DME long → turn 10° inbound
+- **10° before final radial:** Turn inbound/outbound
