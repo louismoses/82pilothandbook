@@ -3,6 +3,9 @@
 - [Chandelle](#chandelle)
 - [Lazy Eight](#lazy-eight)
 - [Eight on Pylons](#eight-on-pylons)
+- [Interception](#interception)
+- [Entries](#enrties)
+- [DME Arc](#dme-arc)
 
 ## CHANDELLE
 
