@@ -13,6 +13,7 @@
 - [4. Departure](#4-departure)
     - [4.1 Local – Charlie Areas](#41-local--charlie-areas)
     - [4.2 Non-Local Departure](#42-non-local-departure)
+    - [4.3 IR](#43-ir)
 - [5. Arrival](#5-arrival)
     - [5.1 Local Arrival](#51-local-arrival)
     - [5.2 Non-Local Arrival](#52-non-local-arrival)
@@ -88,7 +89,29 @@ CDT: "Clark Tower, Cadet [Name] from A & M Hangar, confirming flight plan RP-C35
 - Copy ATIS
 - Complete AMTL
 
-## 2.2 Startup Clearance (118.7)
+## 2.2 Clearance
+
+### (IR - ATC Clearance 125.2)
+
+```
+CDT: "Clearance Delivery, [Ident], good morning/afternoon."
+CLR: "Go ahead."
+
+CDT: "[Ident] C172 A&M Hangar with [Bravo], request ATC Clearance [Rayat] [7000]"
+CLR: "Standby"
+CDT: "*readback"
+
+CLR: "[Ident], report ready to copy"
+CDT: "ready to copy [ident]"
+
+CLR: "Cleared for [RAYAT] via RAYAT 3D [7000] squak [7654]"
+CDT: "*readback*"
+
+CLR: "Correct Copy, switch to tower 118.7"
+CDT: "*readback*"
+```
+
+### (Tower 118.7)
 
 ```
 CDT: "Clark Tower, RP-C3519, good morning/afternoon."
@@ -99,10 +122,6 @@ TWR: "Startup at pilot’s discretion."
 CDT: "*readback*"
 ```
 
----
-
----
-
 # 3. Taxi
 
 ![Image](https://github.com/user-attachments/assets/154ed9a8-84e2-4ed0-b16c-0371a2c53fcd)
@@ -110,7 +129,7 @@ CDT: "*readback*"
 ## 3.1 Taxi to New Terminal
 
 ```
-CDT: "Tower, [RP-C3519], A & M Hangar, Engine startup complete, request taxi instruction new terminal"
+CDT: "Tower, [RP-C3519],Good morning/afternoon.C172 A & M Hangar, Engine startup complete, request taxi instruction new terminal"
 TWR: "[3519], taxi caution Kilo 1, Delta, Foxtrot 4, Alpha, Foxtrot 3, hold short Golf"
 CDT: "*readback*"
 ```
@@ -261,12 +280,28 @@ CDT: "*readback*"
 CDT: "[3519], over [San Fernando] [1500], proceeding [Guagua]"
 APP: "Report over [Guagua]"
 
-CDT: "*readback"
+CDT: "*readback*"
 ```
 
----
+## 4.3 IR
 
----
+```
+CDT: "[Ident] hammerhead [02/20] ready for departure"
+TWR: "Line up and wait runway [02/20]"
+CDT: "*readback*"
+
+TWR: "[Ident] Runway heading [7000] cleared for departure"
+CDT: "*readback*"
+
+TWR: "[Ident] passing [1000] contact approach 119.2"
+CDT: "*readback*"
+
+CDT: "Approach [ident] [good morning] passing [1000] runway heading"
+APP: "maintain runway heading climb [7000]"
+CDT: "*readback*"
+
+*** Follow Approach Instruction ***
+```
 
 # 5. Arrival
 
