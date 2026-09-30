@@ -116,7 +116,7 @@ behind: pitch up
 - over the VOR, change of flag: turn and fly the radial
 - on the heading: timer starts 1 min
 - 45 sec: twist HDG bug (to inbound course)
-- 1 min: Turn Left to intercept inbound course
+- 1 min: intercept inbound course
 
 ### Parallel
 
@@ -124,10 +124,10 @@ behind: pitch up
 
 - 2 DME: set HSI (holding radial)
 - 1 DME: twist HDG bug
-- over the VOR, change of flag: turn
+- over the VOR, change of flag: turn left, fly the radial
 - on the heading: timer starts 1 min
 - 45 sec: twist HDG bug (to inbound course)
-- 1 min: intercept inbound course
+- 1 min: Turn Left to intercept inbound course
 
 ### Direct
 
