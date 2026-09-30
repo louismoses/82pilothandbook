@@ -109,6 +109,15 @@ behind: pitch up
 
 ### Teardrop
 
+#### STANDARD
+
+- 2 DME: set HSI (minus 30° from holding radial)
+- 1 DME: twist HDG bug
+- over the VOR, change of flag: turn
+- on the heading: timer starts 1 min
+- 45 sec: twist HDG bug (to inbound course)
+- 1 min: intercept inbound course
+
 ### Parallel
 
 ### Direct
